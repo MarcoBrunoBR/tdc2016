@@ -139,3 +139,16 @@
 	bottom: 0;
 	z-index: 1;
 }
+
+.footerTDC {
+    position: absolute;
+    bottom: 1em;
+    left: 2em;
+}
+.footerTDC img {
+    margin-right: 3em;
+}
+
+.logoGrubster {
+    width: 50%;
+}
